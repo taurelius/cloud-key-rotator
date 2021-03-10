@@ -6,10 +6,12 @@ require (
 	cloud.google.com/go/storage v1.14.0
 	github.com/CircleCI-Public/circleci-cli v0.1.15085
 	github.com/DataDog/datadog-api-client-go v1.0.0-beta.16
+	github.com/GoKillers/libsodium-go v0.0.0-20171022220152-dd733721c3cb
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/aws/aws-lambda-go v1.23.0
 	github.com/aws/aws-sdk-go v1.37.26
 	github.com/beamly/go-gocd v0.0.0-20190719193049-383d56afbf92
+	github.com/google/go-github/v33 v33.0.0
 	github.com/google/gofuzz v1.1.0 // indirect
 	github.com/googleapis/gnostic v0.0.0-20170729233727-0c5108395e2d // indirect
 	github.com/jszwedko/go-circleci v0.3.0

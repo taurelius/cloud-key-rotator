@@ -19,6 +19,7 @@ type Credentials struct {
 	CircleCIAPIToken string
 	Datadog          Datadog
 	GitAccount       GitAccount
+	GitHubToken      string
 	AkrPass          string
 	AkrPath          string
 	KmsKey           string
